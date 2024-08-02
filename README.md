@@ -1,7 +1,4 @@
-# Face Recogniton GUI-APP
-
-
-# A very Simple Gui app for Face Detection 
+# Features
 
   - Create user
   - Collect facial data for the user
