@@ -9,9 +9,6 @@
   - Gender prediction
   - Age prediction
 
-
-# GUI Showcase
-
 ### Home Page
 <img width="540" alt="Screenshot 2024-08-02 at 11 43 40 AM" src="https://github.com/user-attachments/assets/2d289863-a0d3-40ef-beb9-cf3b5c69dd68">
 
