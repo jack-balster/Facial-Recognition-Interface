@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  face_recognition_app:
+    build: .
+    ports:
+      - "5001:5001"
+    volumes:
+      - .:/app
+    environment:
+      - DISPLAY=:0
