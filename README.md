@@ -25,7 +25,7 @@ List of all the users<br>
 <img width="544" alt="Screenshot 2024-08-02 at 11 44 31 AM" src="https://github.com/user-attachments/assets/d8e0274f-fe83-4d7a-9eac-64944f252c3b">
 
 ### Recognition and Detection <br>
-A webcam window will pop-up and start the recognition proccess or any of the other processes once selected<br>
+A webcam window will pop-up and start the recognition process or any of the other processes once selected<br>
 <img width="534" alt="Screenshot 2024-08-02 at 11 44 37 AM" src="https://github.com/user-attachments/assets/0ec62e24-ae62-44ef-be19-a7feb8032b06">
 
 ### Webcam Examples
